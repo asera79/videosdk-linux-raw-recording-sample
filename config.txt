@@ -1,0 +1,7 @@
+session_name: "asera79session"
+session_token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfa2V5IjoiMkpmRHVtRmlYNlg5dURRbVZxRFV5aUhUVWZ3c08zZG5rWG1TIiwicm9sZV90eXBlIjoxLCJ0cGMiOiJhc2VyYTc5c2Vzc2lvbiIsInZlcnNpb24iOjEsImlhdCI6MTczMDU3MjM0OSwiZXhwIjoxNzMwNTc1OTQ5fQ.5sR_-8gyjy1_nq-4duqNbPwZUHRGJEiifiDymqLSQeU"
+session_psw: "12345678"
+GetVideoRawData: "true"
+GetAudioRawData: "true"
+SendVideoRawData: "false"
+SendAudioRawData: "false"
